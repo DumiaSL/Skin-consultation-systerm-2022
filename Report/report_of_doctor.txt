@@ -1,0 +1,50 @@
+----------------------------------Doctor Details------------------------------------
+Logs updated Date/Time : Fri Jan 06 16:54:41 IST 2023
+
+Total number of doctors in the centre : 5
+-------------------------------------------------------
+Doctor Center ID : 1
+Doctor name : Dr.Piumal Fernando
+Doctor medical licence number : D1100
+Doctor Birthday : 1960/10/10
+Doctor mobile number : 0769039956
+Doctor type : Surgery
+-------------------------------------------------------
+
+-------------------------------------------------------
+Doctor Center ID : 8
+Doctor name : Dr.Sanjalee Hathukumara
+Doctor medical licence number : D1010
+Doctor Birthday : 1985/03/21
+Doctor mobile number : 0756543329
+Doctor type : Paediatric
+-------------------------------------------------------
+
+-------------------------------------------------------
+Doctor Center ID : 5
+Doctor name : Dr.Ajmal Mohomad
+Doctor medical licence number : D1003
+Doctor Birthday : 1990/08/01
+Doctor mobile number : 0742345129
+Doctor type : Medical
+-------------------------------------------------------
+
+-------------------------------------------------------
+Doctor Center ID : 0
+Doctor name : Dr.Chandrasena Muthugala
+Doctor medical licence number : D1001
+Doctor Birthday : 1960/03/23
+Doctor mobile number : 0777386264
+Doctor type : Cosmetic
+-------------------------------------------------------
+
+-------------------------------------------------------
+Doctor Center ID : 7
+Doctor name : Dr.Ragav Rameshwaram
+Doctor medical licence number : D1005
+Doctor Birthday : 1980/01/28
+Doctor mobile number : 0703412684
+Doctor type : Medical
+-------------------------------------------------------
+
+--------------------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+
+Maddumage Dumidu Fernando - w1870577 / 20200515
+All copyright reserved.
+
+Admin Password In GUI= 20200515
+
+I used Popoins Front in GUI im attached fronts in code.
+
+In db_FileSave file you can find stored data in binary code.
+In photos file you can find GUI images.
+In Report file you can see genarated doctor report. 
